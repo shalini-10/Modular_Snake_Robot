@@ -1,8 +1,0 @@
-prefix=/home/shalini/projects/modular_snake/install
-
-Name: hardware_drivers
-Description: Description of hardware_drivers
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/shalini/projects/modular_snake/install/lib 
-Requires: 

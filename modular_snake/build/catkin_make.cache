@@ -1,2 +1,0 @@
-hardware_drivers:localization
--DCATKIN_DEVEL_PREFIX=/home/shalini/projects/modular_snake/devel -DCMAKE_INSTALL_PREFIX=/home/shalini/projects/modular_snake/install -G Unix Makefiles
