@@ -1,0 +1,8 @@
+prefix=/home/pi/Modular_Snake_Robot/snake_robot_ws/install
+
+Name: apriltags
+Description: Description of apriltags
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/pi/Modular_Snake_Robot/snake_robot_ws/install/lib 
+Requires: 
