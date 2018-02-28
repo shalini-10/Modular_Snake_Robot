@@ -1,2 +1,0 @@
-apriltags
--DCATKIN_DEVEL_PREFIX=/home/pi/Modular_Snake_Robot/snake_robot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/pi/Modular_Snake_Robot/snake_robot_ws/install -G Unix Makefiles
